@@ -5,7 +5,3 @@ const a = () => {
 const b = () => {
     return 'b'
 }
-
-const c = () => {
-    return 'c'
-}
